@@ -1,6 +1,5 @@
 one
 two
-<<<<<<< HEAD
 three
 four
 nine
